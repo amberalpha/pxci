@@ -1,4 +1,3 @@
-#' @export
 pxciarFun <-
   function(#*#
     x=NULL
